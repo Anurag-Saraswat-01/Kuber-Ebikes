@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f96b073a.css",
-    "main.js": "/static/js/main.7234dbd7.js",
-    "static/js/787.96fddfa3.chunk.js": "/static/js/787.96fddfa3.chunk.js",
-    "static/media/hero.jpg": "/static/media/hero.d8a2ea65f7545008f9aa.jpg",
-    "static/media/india.jpg": "/static/media/india.ad28be62856898b7f21a.jpg",
-    "index.html": "/index.html",
-    "main.f96b073a.css.map": "/static/css/main.f96b073a.css.map",
-    "main.7234dbd7.js.map": "/static/js/main.7234dbd7.js.map",
-    "787.96fddfa3.chunk.js.map": "/static/js/787.96fddfa3.chunk.js.map"
+    "main.css": "/Kuber-Ebikes/static/css/main.f96b073a.css",
+    "main.js": "/Kuber-Ebikes/static/js/main.069ac02e.js",
+    "static/js/787.96fddfa3.chunk.js": "/Kuber-Ebikes/static/js/787.96fddfa3.chunk.js",
+    "static/media/hero.jpg": "/Kuber-Ebikes/static/media/hero.d8a2ea65f7545008f9aa.jpg",
+    "static/media/india.jpg": "/Kuber-Ebikes/static/media/india.ad28be62856898b7f21a.jpg",
+    "index.html": "/Kuber-Ebikes/index.html",
+    "main.f96b073a.css.map": "/Kuber-Ebikes/static/css/main.f96b073a.css.map",
+    "main.069ac02e.js.map": "/Kuber-Ebikes/static/js/main.069ac02e.js.map",
+    "787.96fddfa3.chunk.js.map": "/Kuber-Ebikes/static/js/787.96fddfa3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96b073a.css",
-    "static/js/main.7234dbd7.js"
+    "static/js/main.069ac02e.js"
   ]
 }
